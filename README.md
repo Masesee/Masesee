@@ -19,7 +19,7 @@ Turning 'it runs on my machine' into 'it runs in production. Bridging the gap be
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochmasese/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/masese0) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=blogger&logoColor=white)](https://masese-web.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maseseenoch@gmail.com) 
 ## ⚡ GitHub Stats
 
-![Enoch Masese's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maseseee&show_icons=true&theme=tokyonight)
+![Enoch Masese's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masesee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maseseee&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masesee&layout=compact&theme=tokyonight)
 
