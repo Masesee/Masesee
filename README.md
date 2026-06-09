@@ -1,25 +1,41 @@
-# Hi there 👋, I'm Enoch Masese
+<div align="center">
 
-### MLOps Engineer, Data Scientist
+# Enoch Masese
+**Data Scientist, MLOps & Machine Learning Engineer**
 
-Turning 'it runs on my machine' into 'it runs in production. Bridging the gap between 'Check out this cool math' and 'Here is the API endpoint'.
+[LinkedIn](https://www.linkedin.com/in/enochmasese/) • [Web](https://masese-web.vercel.app/)  • [Email](mailto:maseseenoch@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+I train and finetune machine learning models, build the infrastructure that takes machine learning models from development to production. I have managed deployments, architected Feature Stores, and automated data quality checks with Great Expectations. I also develop Agentic RAG systems. I am currently open for new opportunities to apply my background in MLOps and LLM engineering to a technical team.
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=hugging%20face&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=apache%20spark&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-black?style=flat-square&logo=google%20cloud%20platform&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github%20actions&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=airflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-black?style=flat-square&logo=weights%20%26%20biases&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus&logoColor=white) ![Grafana.](https://img.shields.io/badge/-Grafana.-black?style=flat-square&logo=grafana.&logoColor=white)
+---
 
-## 🔭 Current Status
+### Technical Toolkit
 
-- 🌱 I’m currently working at **Safaricom PLC**
+**Core Infrastructure**  
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![MLRun](https://img.shields.io/badge/MLRun-00A9E0?style=flat-square&logo=git&logoColor=white)](https://www.mlrun.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 
-## 📫 Connect with me
+**AI & Data Science**  
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat-square&logo=ai&logoColor=white)](https://www.llamaindex.ai/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochmasese/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/masese0) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=blogger&logoColor=white)](https://masese-web.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maseseenoch@gmail.com) 
-## ⚡ GitHub Stats
+**Data Engineering**  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+[![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6F00?style=flat-square&logo=data&logoColor=white)](https://greatexpectations.io/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-![Enoch Masese's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masesee&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masesee&layout=compact&theme=tokyonight)
+*"In theory, there is no difference between theory and practice. In practice, there is."*
 
+</div>
